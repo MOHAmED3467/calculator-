@@ -21,5 +21,4 @@ calculator/
 └─ README.md # This file
 
 
-نسخ
-تحرير
+
